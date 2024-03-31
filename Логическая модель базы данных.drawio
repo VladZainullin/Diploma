@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T19:57:09.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="DjVWzjILGkhDoX7iSC50" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T20:33:53.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="givPS2h2lzF4rB6mwZyC" version="24.2.1" type="github">
   <diagram name="Страница 1" id="hVIG6fZbSnTpJ2coA_qM">
-    <mxGraphModel dx="5208" dy="1294" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="6112" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,8 +590,7 @@
         <mxCell id="-1_lXtkrRVPUCVHb9YS8-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-214" target="-1_lXtkrRVPUCVHb9YS8-334">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-961" y="2744" />
-              <mxPoint x="-322" y="2744" />
+              <mxPoint x="-322" y="2886" />
               <mxPoint x="-322" y="1851" />
             </Array>
           </mxGeometry>
