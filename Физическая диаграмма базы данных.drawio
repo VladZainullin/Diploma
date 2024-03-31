@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T16:13:00.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="YT0TK3w7vnz2XpIm526z" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T16:13:22.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="fA1DM4NMg98SQkh6ZXbZ" version="24.2.1" type="github">
   <diagram name="Страница — 1" id="GrZEG518gq5FZWqtpkEo">
     <mxGraphModel dx="3124" dy="1513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -656,6 +656,14 @@
             <Array as="points">
               <mxPoint x="1487" y="625" />
               <mxPoint x="2207" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0xAcNE5p8Owfltbr_SzP-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="0xAcNE5p8Owfltbr_SzP-190" target="0xAcNE5p8Owfltbr_SzP-228">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="356" y="767" />
+              <mxPoint x="356" y="1091" />
             </Array>
           </mxGeometry>
         </mxCell>
