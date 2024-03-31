@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T11:42:45.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="SmglSrXHI3wGZFlFNDdu" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T11:42:58.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-G_WxVRCR4pxc-q95GxS" version="24.2.1" type="github">
   <diagram name="Страница 1" id="hVIG6fZbSnTpJ2coA_qM">
     <mxGraphModel dx="3508" dy="1694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -549,7 +549,7 @@
           <mxGeometry y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aHR9_frTfQv7lHE0gGob-79" value="Трудоёмкость" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1012" y="1062" width="160" height="261" as="geometry" />
+          <mxGeometry x="-1012" y="1062" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="aHR9_frTfQv7lHE0gGob-83" value="Значение" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -559,18 +559,6 @@
         </mxCell>
         <mxCell id="aHR9_frTfQv7lHE0gGob-84" value="Месяц" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aHR9_frTfQv7lHE0gGob-85" value="Дата создания" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
-          <mxGeometry y="116" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aHR9_frTfQv7lHE0gGob-86" value="Имя создателя" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
-          <mxGeometry y="146" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aHR9_frTfQv7lHE0gGob-87" value="Дата последнего изменения" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
-          <mxGeometry y="176" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aHR9_frTfQv7lHE0gGob-88" value="Имя пользователя, внёсшего последнее изменение" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="aHR9_frTfQv7lHE0gGob-79" vertex="1">
-          <mxGeometry y="206" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aHR9_frTfQv7lHE0gGob-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERoneToMany;endFill=0;" parent="1" source="aHR9_frTfQv7lHE0gGob-90" target="aHR9_frTfQv7lHE0gGob-79" edge="1">
           <mxGeometry relative="1" as="geometry">
