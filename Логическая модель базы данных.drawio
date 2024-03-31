@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T12:08:03.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="wiLDcHVfWyI096K_KLxq" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T12:08:19.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="A5GmeuOEbu3GGQ9u2lN8" version="24.2.1" type="github">
   <diagram name="Страница 1" id="hVIG6fZbSnTpJ2coA_qM">
     <mxGraphModel dx="3985" dy="2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -710,7 +710,7 @@
             <Array as="points">
               <mxPoint x="-925" y="1820" />
               <mxPoint x="-762" y="1820" />
-              <mxPoint x="-762" y="1924" />
+              <mxPoint x="-762" y="1883" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -824,7 +824,7 @@
           <mxGeometry y="146" width="356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-1_lXtkrRVPUCVHb9YS8-33" value="Связь плана и отчёта о закрытии потребности в персонале" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-738" y="1896" width="395" height="56" as="geometry" />
+          <mxGeometry x="-728" y="1855" width="395" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
