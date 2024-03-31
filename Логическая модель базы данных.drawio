@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T18:42:16.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Gvw7Av2dPpR1337hTOUF" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T18:46:38.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="jKKFz-3NHFf0j6NIhTv3" version="24.2.1" type="github">
   <diagram name="Страница 1" id="hVIG6fZbSnTpJ2coA_qM">
     <mxGraphModel dx="5212" dy="1762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1102,6 +1102,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-133" target="-1_lXtkrRVPUCVHb9YS8-241">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1326" y="2774" />
+              <mxPoint x="-1326" y="2858" />
+              <mxPoint x="-1618" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-133" target="-1_lXtkrRVPUCVHb9YS8-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-586" y="2606" />
+              <mxPoint x="522" y="2606" />
+              <mxPoint x="522" y="3335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-133" target="-1_lXtkrRVPUCVHb9YS8-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-242" y="2754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-1_lXtkrRVPUCVHb9YS8-133" value="Год" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-644" y="2726" width="160" height="56" as="geometry" />
         </mxCell>
@@ -1605,6 +1630,15 @@
         </mxCell>
         <mxCell id="-1_lXtkrRVPUCVHb9YS8-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-133" target="-1_lXtkrRVPUCVHb9YS8-263">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.717;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="-1_lXtkrRVPUCVHb9YS8-133" target="-1_lXtkrRVPUCVHb9YS8-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-564" y="2642" />
+              <mxPoint x="58" y="2642" />
+              <mxPoint x="58" y="3170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
