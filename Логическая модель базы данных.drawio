@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T16:27:18.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="ZWlMHN_anPtdQhmOF-U4" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T16:45:40.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="aYqyVnjPysspo-88vso6" version="24.2.1" type="github">
   <diagram name="Страница 1" id="hVIG6fZbSnTpJ2coA_qM">
     <mxGraphModel dx="3190" dy="1478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -914,6 +914,21 @@
         </mxCell>
         <mxCell id="-1_lXtkrRVPUCVHb9YS8-60" value="Процент продвижения наряд-заказа" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="-1_lXtkrRVPUCVHb9YS8-57">
           <mxGeometry y="450" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-73" value="Месяц проекта расчёта загрузки ОПР" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1305" y="3279" width="275" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-74" value="Дефицит" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-1_lXtkrRVPUCVHb9YS8-73">
+          <mxGeometry y="26" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-75" value="Фактическая средне-списочная численность" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-1_lXtkrRVPUCVHb9YS8-73">
+          <mxGeometry y="56" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-76" value="Процент выходов" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-1_lXtkrRVPUCVHb9YS8-73">
+          <mxGeometry y="86" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1_lXtkrRVPUCVHb9YS8-77" value="Процент выходов аутстаффинга" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-1_lXtkrRVPUCVHb9YS8-73">
+          <mxGeometry y="116" width="275" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
